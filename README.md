@@ -24,9 +24,3 @@ This repository also contains a set of tools that can be used on the training se
 * PDF Preprocessing
 * Quality assessment
 * XML validity checker (used by a Github action)
-
-# DataCatalogue organization information
-
-## Organization logo
-
-Logo by [Alix Chagué](https://alix-tz.github.io/), inspiration from [Loading Artist](https://loadingartist.com/).
